@@ -18,7 +18,7 @@ function FooterS() {
                 </Link>
                 <span>|</span>
                 <Link
-                    to="/quemsomos"
+                    to="/quem-somos"
                     className='FooterS-Link'>
                     Quem somos
                 </Link>
