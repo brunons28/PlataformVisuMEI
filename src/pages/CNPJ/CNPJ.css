@@ -1,0 +1,29 @@
+.cnpj {
+    position: relative;
+    width: 100%;
+    height: 480vh;
+    background-image: url('../../Images/CNPJ/bg-CNPJ.svg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.header-cnpj {
+    position: relative;
+    width: 100%;
+    height: 20vh;
+}
+
+.main-cnpj {
+    position: relative;
+    width: 100%;
+    height: 415vh;
+}
+
+.footer-cnpj {
+    position: relative;
+    width: 100%;
+    height: 45vh;
+    background-image: url('../../Images/home/bg-footer.svg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
